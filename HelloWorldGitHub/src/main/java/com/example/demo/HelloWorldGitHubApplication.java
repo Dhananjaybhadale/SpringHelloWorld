@@ -8,6 +8,8 @@ public class HelloWorldGitHubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldGitHubApplication.class, args);
+		
+		System.out.println("kyujhfgjghfn");
 	}
 
 }
